@@ -1,0 +1,4 @@
+start
+=====
+
+Simple trening repo
